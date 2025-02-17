@@ -29,7 +29,6 @@ const htmlTemplate = (page, url, fileContent) => {
         <div style="padding:15px;">
           ${remoteFileContent}
         </div>
-        <meta name="google-site-verification" content="wytaWCOZpM1CHZ9TBLi4XKArJ74DSyjcjfDlhBqQEeI" />
       </body>
   </html>`;
 };
