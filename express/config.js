@@ -1,6 +1,6 @@
 const config = {
   port: "3001",
-  googleVerification: "wytaWCOZpM1CHZ9TBLi4XKArJ74DSyjcjfDlhBqQEeI",
+  googleVerification: "SUVG0hSY3WwCI3Hvgu1eKU6D0aZTnCaMBITeX-3HNIE",
   beekeeperCredentials: {
     username: "chris",
     password: "chris",
@@ -10,3 +10,4 @@ const config = {
     local: true,
   },
 };
+module.exports = config;
